@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+build/
+*.exe
+*.log
+*.pem
+*.key
+*.pfx
+*.p12
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
