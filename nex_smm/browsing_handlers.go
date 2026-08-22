@@ -1,7 +1,7 @@
 package nex_smm
 
 import (
-	"github.com/EcrazerDev/super-mario-maker/smmdatabase"
+	"github.com/Protarium-Network/super-mario-maker-nex-server/smmdatabase"
 
 	nex "github.com/PretendoNetwork/nex-go/v2"
 	"github.com/PretendoNetwork/nex-go/v2/types"

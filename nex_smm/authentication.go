@@ -20,7 +20,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/EcrazerDev/super-mario-maker/globals"
+	"github.com/Protarium-Network/super-mario-maker-nex-server/globals"
 	nex "github.com/PretendoNetwork/nex-go/v2"
 	"github.com/PretendoNetwork/nex-go/v2/constants"
 	"github.com/PretendoNetwork/nex-go/v2/types"

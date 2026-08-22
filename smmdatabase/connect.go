@@ -14,7 +14,7 @@ import (
 
 	_ "github.com/lib/pq"
 
-	"github.com/EcrazerDev/super-mario-maker/globals"
+	"github.com/Protarium-Network/super-mario-maker-nex-server/globals"
 )
 
 var Postgres *sql.DB

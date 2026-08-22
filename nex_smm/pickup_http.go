@@ -26,8 +26,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/EcrazerDev/super-mario-maker/globals"
-	"github.com/EcrazerDev/super-mario-maker/smmdatabase"
+	"github.com/Protarium-Network/super-mario-maker-nex-server/globals"
+	"github.com/Protarium-Network/super-mario-maker-nex-server/smmdatabase"
 )
 
 type pickupEntry struct {

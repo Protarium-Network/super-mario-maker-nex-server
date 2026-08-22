@@ -5,8 +5,8 @@ import (
 	"os"
 	"runtime/debug"
 
-	"github.com/EcrazerDev/super-mario-maker/nex_smm"
-	"github.com/EcrazerDev/super-mario-maker/smmadmin"
+	"github.com/Protarium-Network/super-mario-maker-nex-server/nex_smm"
+	"github.com/Protarium-Network/super-mario-maker-nex-server/smmadmin"
 )
 
 var serverBuildString = "development"

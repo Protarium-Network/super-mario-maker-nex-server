@@ -1,4 +1,4 @@
-module github.com/EcrazerDev/super-mario-maker
+module github.com/Protarium-Network/super-mario-maker-nex-server
 
 go 1.25.0
 
