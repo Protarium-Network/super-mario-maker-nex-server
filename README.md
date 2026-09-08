@@ -39,3 +39,5 @@ The complete safe template is in `.env.example`. Required settings cover Postgre
 GNU Affero General Public License v3.0. See `LICENSE`. The bundled protocol fork retains its own license and notices.
 
 This independent preservation and interoperability project is not affiliated with or endorsed by Nintendo.
+
+_Deployed and maintained as part of the [Protarium Network](https://github.com/Protarium-Network) Wii U online service revival project._
