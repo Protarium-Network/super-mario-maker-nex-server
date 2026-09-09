@@ -41,3 +41,4 @@ GNU Affero General Public License v3.0. See `LICENSE`. The bundled protocol fork
 This independent preservation and interoperability project is not affiliated with or endorsed by Nintendo.
 
 _Deployed and maintained as part of the [Protarium Network](https://github.com/Protarium-Network) Wii U online service revival project._
+_Derived from Pretendo Network’s original codebase (PretendoNetwork). Copyright (C) Pretendo Network contributors._
